@@ -1,5 +1,25 @@
-#filedropper
+#dropzone
 {
-  border: 4px dashed #ffab91;
+  border: 5px dashed rgba(255, 255, 255, 0.3);
   border-radius: 5px;
+  width: 700px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#dropzone.hover h5
+{
+  opacity: 0.5;
+}
+
+/* Color pagination correctly when order is ul > a > li */
+.pagination a li
+{
+  color: #000;
+}
+
+.pagination a li.active
+{
+  color: #fff;
 }
