@@ -1,5 +1,7 @@
 # MST Extractor
 
+**THIS PROJECT HAS BEEN MOVED TO https://github.com/dj0wns/DJs_MA_TOOLs**
+
 Takes in an MST and extracts all of the files. CSV's have been specially reformatted to their original form.
 
 ```
